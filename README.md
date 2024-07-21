@@ -4,8 +4,9 @@
   I'm here to introduce you my first application using Whisper chatgpt model online, Telegram bot/API, Running through all procces to identify browser to close not perfect yet, but desire to be seen👀
 </div>
 <hr>
+
 <div>
-## Main Tools to be used
+<h2>Main Tools to be used</h2>
   
   1. _**Whisper model**_
   2. _**Webbrowser**_
