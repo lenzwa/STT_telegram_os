@@ -5,7 +5,7 @@
 </div>
 <hr>
 <div>
-  ## Main Tools to be used
+## Main Tools to be used
   
   1. _**Whisper model**_
   2. _**Webbrowser**_
