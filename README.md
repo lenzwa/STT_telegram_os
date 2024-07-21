@@ -1,7 +1,9 @@
 # STT_telegram_os
 <hr>
-<div style="display:flex;justify-content:center;">
+<div style="display:flex;justify-content:space-between;">
+<div>
   I'm here to introduce you my first application using Whisper chatgpt model online, Telegram bot/API, Running through all procces to identify browser to close not perfect yet, but desire to be seen👀
+  </div>
   
 ![Roadmap](https://github.com/lenzwa/STT_telegram_os/blob/main/photo_2024-07-20_16-53-39.jpg?raw=true)
 
